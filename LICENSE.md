@@ -1,0 +1,1 @@
+The project information on https://code.google.com/archive/p/imagetestsuite/ indicates the license is [GNU GPL v2](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html) and the content license is [Creative Commons 3.0 BY](https://creativecommons.org/licenses/by/3.0/).
